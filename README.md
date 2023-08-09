@@ -9,8 +9,9 @@
     An event trigger within few clicks
     <br/>
     <br/>
-    <a href="https://github.com/Antovex/Automatic-S3-event-Trigger">View Demo</a>
+<!---    <a href="https://github.com/Antovex/Automatic-S3-event-Trigger">View Demo</a>
     .
+    --->
   </p>
 </p>
 
@@ -19,6 +20,11 @@
 ## About The Project
 
 This project is an application of the real life based scenario. This is a simple event based trigger, where when we upload a file in a specific/needed AWS S3 bucket, an email is sent to the mentioned email address.
+
+## Architecture
+<p align="center">
+<img src="https://github.com/Antovex/Automatic-S3-event-trigger/blob/main/S3-event-triggering/S3-event-triggering-architecture.png" width="600" height="300">
+</p>
 
 ## Getting Started
 
